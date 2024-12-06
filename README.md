@@ -1,1 +1,1 @@
-Moder Resumbuilder
+Modern Resumbuilder
